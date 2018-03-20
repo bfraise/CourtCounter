@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
     int scoreTeamA = 0;
     int scoreTeamB = 0;
-    int newGame = 0;
+    int resetScore = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
